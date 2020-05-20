@@ -1,4 +1,4 @@
-# Model 2 strategy pattern을 활용한 웹 게시판
+# MVC2 모델을 활용한 웹 게시판
 
 [웹 게시판 바로가기](https://github.com/edae89/board/tree/master/web-study-11)
 
