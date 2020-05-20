@@ -19,3 +19,8 @@
 - 로그인
 - 파일 업로드
 - 페이징
+
+
+![답글](https://user-images.githubusercontent.com/62271904/82451340-d1225600-9ae8-11ea-85fc-d64e533e7459.PNG)
+
+![댓글](https://user-images.githubusercontent.com/62271904/82451348-d41d4680-9ae8-11ea-863a-1b1e1eebb6f2.PNG)
